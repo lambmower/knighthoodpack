@@ -1,3 +1,10 @@
+# **Changes:**
+* **Rebalanced Waystones** - Waystones will now generally be more expensive and you can no longer use them to travel cross-dimensionally
+
+
+
+# **Additions:**
+
 *Cobblemon:*
 * **AllTheMons x Mega Showdown** - You should start seeing a ton of new pokemon, including super rare legendary spawns
 * **Biome Expanded Spawns** - Changes, expands and adds modded biome compatibility for cobblemon distribution, more pokemon in places that make sense for them
