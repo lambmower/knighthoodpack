@@ -1,5 +1,11 @@
 # **Changes:**
-* **Rebalanced Waystones** - Waystones will now generally be more expensive and you can no longer use them to travel cross-dimensionally
+* **Rebalanced Waystones** - Waystones will now generally be more expensive to use and you can no longer use them to travel cross-dimensionally
+* **Cosmetic Armor** - Now persists through death
+* **Ars Creo Buffs** - Buffs to Ars Creo Starbuncle Wheel and Source Engines to put them more in line with other options
+* **Create Diesel Canisters** - Increased capacity by 10x
+* **Create Mechanical Belts** - Increased max length from 20 to 40
+* **Create Tanks** - Increased capacity from 8 to 32
+* **Create Pumps** - Increased range from 16 to 32
 
 
 
