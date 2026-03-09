@@ -45,7 +45,7 @@
 * **BaguetteLib**
 * **Caelus**
 * **Cobblemore**
-* **MonoLib
+* **MonoLib**
 * **ResourcefulLib**
 * **Supermartijn642lib**
 
