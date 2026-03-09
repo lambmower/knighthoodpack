@@ -28,7 +28,6 @@
 * **Clavis** - Lootr chests might now become with a minigame similar to our beloved Warframe to unlock them, if you do well you might even get double loot. Just want to unlock them normally? Get your hands on some lockpicks
 * **Rechiseled** - New aesthetic blocks for your builds with a new handy tool that integrates with the blocks we already have from chipped
 * **Bibliocraft** - Decorative and functional furniture comes your way with shelves, bookcases and more that you can you can actually use 
-* **Charging Gadgets** - Easily charge your new Building Gadgets with this block that provides FE energy to inserted items
 * **Ender's Delight** - A host of new The End-themed dishes for Farmer's Delight
 * **Framed Blocks** - A suite of blocks in many different shapes that can take on the texture of other full blocks, get those details exactly like you want them
 * **Iris Shaders** - Iris is now included in the base pack instead of having to install it yourself if you want to play with shaders 
@@ -38,6 +37,7 @@
 * **Magnum Torch** - We're helping you say no to mob spawns by providing you with an extra large torch. Build completely in peace and don't let torch spam get in the way of aesthetically lighting your builds
 * **Akashic Tome** - Inventory overflowing with books telling you how all these damn mods work, save inventory space by compacting it all into just one handy book
 * **Building Gadgets** - A line up of great tools that will help you build the prettiest house on the server. Randomized block replacement, build walls instantly, copy-pasting and more.
+* **Charging Gadgets** - Easily charge your new Building Gadgets with this block that provides FE energy to inserted items
 * **Dis-Enchanting Table** - Make use of all that enchanted gear you're finding in dungeons or move enchantments from one tool to another with the new dis-enchanting table
 * **Ars x Iron Mana Bridge** - Confused by these different mana mods having different mana pools and effects that all say mana that don't interact in any way? No more! Your mana will now be a single resource and take advantage of all effects from both Iron and Ars
 * **Botany Trees: Cultivating Dreams** - More modded flora now work in Botany Pots, including Ars and Biomes O' Plenty
